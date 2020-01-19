@@ -3,7 +3,7 @@
 
 ### python程式設計
 - p01.py
-```
+``` python
 a=10
 print(a)
 print(type(a))
@@ -12,7 +12,7 @@ a=20
 print(a)
 ```
 - p02.py
-```
+``` python
 a=123456789
 print(a)
 
