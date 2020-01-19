@@ -3,6 +3,14 @@
 
 ### python程式設計
 - p01.py
+```
+a=10
+print(a)
+print(type(a))
+
+a=20
+print(a)
+```
 - p02.py
 - p03.py
 ### micro:bit 設計
